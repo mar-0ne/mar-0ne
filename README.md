@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mar-0ne.
 - 👀 I’m interested in startups and creative ideas.
-- 🌱 I’m currently learning DevOps and CI/CD pipelines.
+- 🌱 I’m currently working as a junior DevOps/CLOUD engineer.
 - 💞️ I’m looking to collaborate on opensource projects.
 
 <!---
